@@ -1,1 +1,32 @@
-
+[
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/zvonochek.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/zvonochek.mp3",
+    "title": "Звоночек"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/revnost.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/tevnost.mp3",
+    "title": "Ревность"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/tsveti.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/tsveti.mp3",
+    "title": "Цветы"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/kosmos.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/kosmos.mp3",
+    "title": "Космос"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/eslihocheshvlublaysya.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/eslihocheshvlublaysya.mp3",
+    "title": "Если хочешь влюбляйся"
+  },
+  {
+    "cover": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/nezovi.jpg",
+    "audio": "https://raw.githubusercontent.com/isdanie/music/refs/heads/main/nezovi.mp3",
+    "title": "Не зови"
+  }
+]
